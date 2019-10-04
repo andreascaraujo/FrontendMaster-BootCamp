@@ -12,6 +12,9 @@ body {
 	padding: 0;
 	background-image: url("../img/galaxy.jpg");
 }
+h1, h3, legend, address {
+    font-family: 'Cormorant Garamond', serif, Arial, Helvetica;
+}
 
 .wrapper {
 	width: 80%;
