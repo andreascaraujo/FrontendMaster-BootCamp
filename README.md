@@ -13,9 +13,9 @@ Core Coursework:
 
 3. HTML Forms
 
-4. Website Embeds & GitHub Pages (currently learning)
+4. Website Embeds & GitHub Pages 
 
-5. Calculator Project: HTML & CSS
+5. Calculator Project: HTML & CSS (currently learning)
 
 6. Introduction to JavaScript
 
